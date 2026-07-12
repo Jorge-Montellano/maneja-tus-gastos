@@ -523,3 +523,4 @@ Base URL local: `http://localhost:3000/api`
 ## 🆘 ¿Algo falla?
 
 Consulta [`docs/TROUBLESHOOTING-CHEATSHEET.md`](./docs/TROUBLESHOOTING-CHEATSHEET.md) — cubre los errores más comunes de Docker, Actions, Render y Firebase.
+PRUEBA
